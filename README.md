@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Diffusion Networks and Music Cross-Modal Learning
-- 👯 I’m looking to collaborate on Music information retrieval (MIR) related items
-- 💬 Ask me about anything, I am happy to do my best to help you;
+- 👯 I’m looking to collaborate on Music information retrieval (MIR)
+- 💬 Ask me about anything, I am happy to do my best to help you
 - 📫 How to reach me: gya@stu.xju.edu.cn
 - 🎶 Goals:
 -           A. Change music with the power of technology
