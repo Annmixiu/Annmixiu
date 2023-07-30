@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to do my best to help you;
 - 📫 How to reach me: gya@stu.xju.edu.cn
 - 🎶 Goals: A. Change music with the power of technology
+
             B. Applying for a Ph.D. in Music AI
+
             C. Find a soul mate🤣
 - ⚡ Fun fact: chord 4536251
