@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Diffusion Networks and Music Cross-Modal Learning
+- 🌱 I’m currently learning Diffusion Network and Music Cross-Modal Learning
 - 👯 I’m looking to collaborate on Music information retrieval (MIR)
 - 💬 Ask me about anything, I am happy to do my best to help you
 - 😿 If I have any problem, please point it out and I will correct it in time
