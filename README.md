@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gya@stu.xju.edu.cn
 - 🎶 Goals:
 -           A. Change music with the power of technology
-            B. Applying for a Ph.D. in Music AI
+            
             C. Find a soul mate🤣
+- 🐮🐴: The passion for scientific research will not die, it only gradually withers away in a myriad of unrelated horizontal topics.
 **Languages, OS and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/logo-icon.svg"></code>
