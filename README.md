@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -           A. Change music with the power of technology
             
             C. Find a soul mate🤣
-- 🐮🐴: The passion for scientific research will not die, it will only gradually wither away in a myriad of unrelated horizontal topics.
 
 **Languages, OS and Tools:**  
 
